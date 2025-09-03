@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -12,7 +13,7 @@
             line-height: 1.7;
         }
         header {
-            background-color: rgb(0, 255, 38);
+            background-color: #FF671F;
             padding: 20px;
             text-align: center;
         }
@@ -51,7 +52,7 @@
             margin-bottom: 10px;
         }
         footer {
-            background-color: rgb(30, 255, 0);
+            background-color: #046A38;
             color: white;
             padding: 15px;
             text-align: center;
@@ -75,12 +76,12 @@
         <ul>
             <li><strong>Seamless Onboarding:</strong> Splash screen and automatic transition to login/signup.</li>
             <li><strong>Home Page Dashboard:</strong> Menu Drawer with your wallet, coupons, referral code, and more.</li>
-            <li><strong>Earn by Watching Ads:</strong> Watch 10 rewarded video ads to earn 500 coins.</li>
-            <li><strong>Referral Program:</strong> Share your code and earn <strong>5000 coins</strong> when someone signs up using it. The new user also gets a <strong>500 coin bonus</strong> on signup.</li>
-            <li><strong>Daily Login Bonus:</strong> Earn 500 coins for each day's first login.</li>
-            <li><strong>Spin Wheel:</strong> 5 daily spins to win coins or coupons. Collect 10,000 coins to redeem Flipkart, Amazon, or ITC gift vouchers or coupons.</li>
+            <li><strong>Earn by Watching Ads:</strong> Watch  rewarded video ads to earn  coins.</li>
+            <li><strong>Referral Program:</strong> Share your code and earn <strong> coins</strong> when someone signs up using it. The new user also gets a <strong> earn coin bonus</strong> on signup.</li>
+            <li><strong>Daily Login Bonus:</strong> Earn  coins for each day's first login.</li>
+            <li><strong>Spin Wheel:</strong> 5 daily spins to win coins or coupons. Collect 10,000 coins to redeem ₹10 resib in earn to by ads wallet  this wallet balance use   gift vouchers or coupons.</li>
             <li><strong>No Internet Handling:</strong> Offline popup with retry option.</li>
-            <li><strong>Firebase Authentication:</strong> Secure signup/login with referral support and password reset via PIN.</li>
+            <li><strong> Authentication & Features :</strong> Secure signup/login with referral support and password reset via PIN. and available other features , check available features go to Earn to by ads Home Page Tap in left side 3 line open menu Bar Chack Available features.</li>
         </ul>
 
         <h2>Why Choose Earn to by Ads?</h2>
@@ -93,3 +94,4 @@
 
 </body>
 </html>
+
